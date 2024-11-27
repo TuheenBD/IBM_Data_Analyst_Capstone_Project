@@ -2,3 +2,5 @@
 IBM Data Analyst Capstone Project
 
 Here I will upload all the Assignments of the IBM Data Analyst Capstone Project.
+
+Upload - Web Scrapping - Lab 2 (Solve)
